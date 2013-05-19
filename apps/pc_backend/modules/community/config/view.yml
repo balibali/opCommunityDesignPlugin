@@ -1,0 +1,4 @@
+listSuccess:
+  javascripts:
+    - jquery.min.js
+    - /opCommunityDesignPlugin/backendCommunityList.js

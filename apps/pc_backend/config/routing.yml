@@ -1,0 +1,3 @@
+community_design_edit:
+  url:   /communityDesign/edit/:id
+  param: { module: communityDesign, action: edit }

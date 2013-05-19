@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package>
+  <name>opCommunityDesignPlugin</name>
+  <summary>管理画面からコミュニティごとに個別のデザイン設定をするためのプラグインです。</summary>
+</package>
